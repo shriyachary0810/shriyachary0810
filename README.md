@@ -488,7 +488,7 @@ Contributing to **AI-based projects** while developing strong technical, problem
 
 ## GitHub stats
 
-![] GitHub Stats(https://ghstats.dev/api/card?username=shriyachary0810-collab)
+![]GitHub Stats(https://ghstats.dev/api/card?username=shriyachary0810-collab)
 
 ---
 
