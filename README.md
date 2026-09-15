@@ -1,6 +1,7 @@
 # shriya
 # 👋 Hi, I'm Shriya Chary
 
+
 ## 👩‍💻 Professional Identity
 
 ### Python Developer | AI Engineer | Generative AI | APIs | Automation | Cloud
@@ -9,7 +10,6 @@ I am a **Python Developer and AI Engineer** with a strong interest in developing
 
 My approach combines **software development, AI concepts, data-driven thinking, and automation** to create solutions that are practical, scalable, and easy to use.
 
-I am particularly interested in:
 
 - 🐍 **Python Development** – Building applications and solving problems using Python
 - 🤖 **Artificial Intelligence** – Exploring AI concepts and AI-powered solutions
@@ -26,14 +26,16 @@ I believe in **continuous learning, hands-on development, and building projects 
 
 ## 🚀 About Me
 
-* 🐍 Python Developer
-* 🤖 AI & Generative AI Enthusiast
-* 🔗 Interested in AI Agents and API Integrations
-* ⚙️ Exploring Automation & Workflow Development
-* ☁️ Learning Cloud, DevOps & MLOps
-* 🧩 Interested in Low-Code & No-Code LLM Applications
-* 💡 Passionate about building real-world technology solutions
-* 📚 Continuously learning and improving my development skills
+- 🐍 **Python Development** – Building applications and solving problems using Python
+- 🤖 **Artificial Intelligence** – Exploring AI concepts and AI-powered solutions
+- ✨ **Generative AI** – Learning and experimenting with modern generative AI technologies
+- 🔌 **APIs** – Working with API integration and AI-based services
+- ⚙️ **Automation** – Developing solutions that reduce repetitive manual work
+- 🗄️ **SQL & Databases** – Managing and working with structured data
+- ☁️ **Cloud Technologies** – Developing my knowledge of AWS and cloud-based solutions
+- 🔧 **Git & GitHub** – Version control, collaboration, and project management
+
+I believe in **continuous learning, hands-on development, and building projects that turn technical knowledge into practical solutions**.
 
 ---
 
