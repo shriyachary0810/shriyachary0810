@@ -483,7 +483,7 @@ Contributing to **AI-based projects** while developing strong technical, problem
 
 I’m excited to share a short introduction about my background, skills, and professional interests.
 
-[▶️ Watch My 60-Second Introduction](https://www.loom.com/share/a11f323f33e5490ab28d47ba65cbd3f4)
+[▶️ Watch My 60-Second Introduction](https://www.loom.com/share/aa1b883bea8146e68db5250fce07ef70)
 
 ---
 
