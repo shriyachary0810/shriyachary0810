@@ -479,6 +479,14 @@ Contributing to **AI-based projects** while developing strong technical, problem
 
 ---
 
+## 🎥 60-Second Introduction
+
+I’m excited to share a short introduction about my background, skills, and professional interests.
+
+[▶️ Watch My 60-Second Introduction](https://www.loom.com/share/a11f323f33e5490ab28d47ba65cbd3f4)
+
+---
+
 ## 💡 My Developer Journey
 
 > **Learn → Practice → Build → Debug → Improve → Repeat**
