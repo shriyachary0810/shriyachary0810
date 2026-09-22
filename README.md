@@ -28,11 +28,13 @@ I believe in **continuous learning, hands-on development, and building projects 
 
 ## 📄 Resume
 
-Interested in learning more about my background, experience, skills, and projects?
+<p align="center">
 
-📥 **[View My Resume](shriya_resume_.pdf)**
+<a href="./resume/Shriya_Chary_Resume.pdf">
+  <img src="https://img.shields.io/badge/📄%20View%20My%20Resume-000000?style=for-the-badge&logo=readthedocs&logoColor=white" alt="View My Resume"/>
+</a>
 
-My resume includes my experience as an **AI Engineer at Agent Ops Labs**, technical skills, Employee Onboarding Application, academic project on **Artificial Intelligence in E-Commerce**, education, and certifications.
+</p>
 
 ---
 
