@@ -75,7 +75,7 @@ Working on AI-based projects and gaining hands-on experience with:
 ### 🏫 St. Mary's Vidyaniketan High School
 
 **SSC**
-📅 June 2019 – March 2020
+📅 June 2020 – March 2021
 🎯 **Grade: 97%**
 
 **Activities & Societies:** YOGA, Karate, Softball
