@@ -26,16 +26,6 @@ I believe in **continuous learning, hands-on development, and building projects 
 
 ---
 
-## 📄 Resume
-
-Interested in learning more about my background, experience, skills, and projects?
-
-📥 **[View My Resume](./resume/Shriya_Chary_Resume.pdf)**
-
-My resume includes my experience as an **AI Engineer at Agent Ops Labs**, technical skills, Employee Onboarding Application, academic project on **Artificial Intelligence in E-Commerce**, education, and certifications.
-
-
-
 ## 💼 Experience
 
 ### 🤖 AI Engineer — Agent Ops Labs
