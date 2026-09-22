@@ -26,18 +26,6 @@ I believe in **continuous learning, hands-on development, and building projects 
 
 ---
 
-## 📄 Resume
-
-<p align="center">
-
-<a href="./resume/Shriya_Chary_Resume.pdf">
-  <img src="https://img.shields.io/badge/📄%20View%20My%20Resume-000000?style=for-the-badge&logo=readthedocs&logoColor=white" alt="View My Resume"/>
-</a>
-
-</p>
-
----
-
 ## 💼 Experience
 
 ### 🤖 AI Engineer — Agent Ops Labs
