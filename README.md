@@ -104,262 +104,49 @@ A centralized application designed to simplify and manage the employee onboardin
 **Technologies:**
 `Python` `FastAPI` `React.js`
 
-
-# A Study on the Role of Artificial Intelligence in Shaping E-Commerce Platforms
-
+# A Study on the Role of Artificial Intelligence in E-Commerce
 ### A Special Reference to Myntra
 
-![Artificial Intelligence](https://img.shields.io/badge/Artificial%20Intelligence-AI-blue)
+![AI](https://img.shields.io/badge/Artificial%20Intelligence-AI-blue)
 ![E-Commerce](https://img.shields.io/badge/Domain-E--Commerce-green)
-![Research](https://img.shields.io/badge/Project-Type%20Quantitative%20Research-orange)
 ![SPSS](https://img.shields.io/badge/Analysis-SPSS-red)
 
----
-
 ## 📌 Project Overview
+A final-year academic research project at **Loyola Academy** exploring how Artificial Intelligence (AI) influences consumer purchase decisions, personalization, and customer experience on Myntra.
 
-This project is a final-year academic research study conducted at **Loyola Academy** to examine the role of **Artificial Intelligence (AI) in shaping e-commerce platforms**, with special reference to **Myntra**.
-
-The study focuses on understanding how AI-driven technologies influence consumer purchase decision-making, the factors that drive AI adoption, and the operational and technological challenges associated with AI implementation in e-commerce.
-
-The research follows a **quantitative research approach** and uses primary data collected from **106 active Myntra users in Hyderabad** through a structured Likert-scale questionnaire.
-
----
-
-## 🎯 Objectives of the Study
-
-The major objectives of this study are:
-
-1. To examine the key factors influencing the adoption of AI in e-commerce platforms.
-2. To analyze the impact of AI on consumer purchase decision-making.
-3. To identify the challenges faced by e-commerce platforms while using AI technologies.
-
----
-
-## 🤖 AI Technologies Studied
-
-The research examines the role of several AI-driven features used in e-commerce, including:
-
-- Personalized Product Recommendations
-- Chatbots
-- Virtual Assistants
-- Automated Search Tools
-- Virtual Try-On Technologies
-- Automated Query Handling
-- AI-Based Product Visualization
-- AI-Driven Operational Processes
-
----
+## 🎯 Objectives
+- Study factors influencing AI adoption in e-commerce.
+- Analyze the impact of AI on consumer purchase decisions.
+- Identify challenges related to AI accuracy, data privacy, and customer support.
 
 ## 🔬 Research Methodology
+- **Approach:** Quantitative Research
+- **Sample Size:** 106 active Myntra users
+- **Location:** Hyderabad, India
+- **Sampling:** Convenience Sampling
+- **Data Collection:** Structured questionnaire
+- **Tool:** SPSS
 
-### Research Approach
+## 📊 Key Findings
+- **Personalization** emerged as a major driver of AI adoption.
+- Customer engagement and support was the strongest predictor of purchase decisions.
+- Key challenges included technological inaccuracies, data privacy concerns, and limited human support.
 
-A **quantitative research approach** was adopted to collect measurable data and identify statistical relationships between variables.
-
-### Target Population
-
-The target population consisted of active **Myntra users** who are exposed to AI-enabled features such as personalized recommendations, chatbots, and search algorithms.
-
-### Geographical Area
-
-**Hyderabad, India**
-
-### Sample Size
-
-**106 respondents**
-
-### Sampling Technique
-
-**Convenience Sampling**
-
-### Data Collection
-
-Primary data was collected using a structured **Likert-scale questionnaire**.
-
-### Statistical Software
-
-**SPSS**
-
----
-
-## 📊 Statistical Techniques Used
-
-The following statistical techniques were used for data analysis:
-
-- Frequency Distribution
-- Discriminant Analysis
-- Regression Analysis
-- Exploratory Factor Analysis (EFA)
-
-### Frequency Distribution
-
-Used to analyze demographic characteristics and general shopping patterns of respondents.
-
-### Discriminant Analysis
-
-Used to identify the factors that best differentiate different levels of AI adoption.
-
-### Regression Analysis
-
-Used to measure the influence of AI-related factors on consumer purchase decision-making.
-
-### Exploratory Factor Analysis
-
-Used to group technological and operational challenges into meaningful categories.
-
----
-
-## 📈 Key Findings
-
-### 1. AI Adoption Drivers
-
-The study found that **personalization** was the most influential factor driving AI adoption.
-
-AI-powered product recommendations received a driver score of **0.776**.
-
-Operational efficiency, including inventory management and search optimization, was also identified as an important factor.
-
----
-
-### 2. Impact on Consumer Purchase Decisions
-
-Regression analysis showed that AI features significantly influence consumer purchase behavior.
-
-The major predictors identified were:
-
-| Factor | Beta (β) |
-|---|---:|
-| Customer Engagement & Support | 0.263 |
-| Decision Speed & Cognitive Effort | 0.201 |
-| Perceived Value & Pricing Benefits | 0.199 |
-| Product Visualization & Experience | 0.139 |
-
-**Customer Engagement & Support** was identified as the strongest predictor of purchase decisions.
-
----
-
-## ⚠️ Challenges Identified
-
-The research identified several challenges associated with AI adoption in e-commerce.
-
-### Technological Inaccuracies
-
-**95.3%** of users identified issues such as limited product variety and inaccurate virtual try-on tools as very or extremely challenging.
-
-### Data Privacy
-
-**95.3%** of users expressed concerns regarding data privacy and transparency.
-
-### Lack of Human Support
-
-**95.3%** of users identified the lack of human assistance as a significant challenge, particularly when chatbots were unable to resolve complex problems.
-
----
-
-## 💡 Strategic Recommendations
-
-Based on the findings, the study recommends:
-
-### 1. Improve AI Accuracy
-
-Improve the accuracy of virtual try-on technologies and recommendation algorithms to reduce user frustration.
-
-### 2. Strengthen Data Privacy
-
-Improve data protection practices and communicate privacy policies transparently to build consumer trust.
-
-### 3. Introduce Hybrid Customer Support
-
-Combine AI-powered chatbots with quick human escalation options so customers can receive human assistance when AI cannot resolve complex issues.
-
----
-
-## 📌 Conclusion
-
-The study concludes that **Artificial Intelligence plays an important role in improving customer experience and operational performance in e-commerce platforms**.
-
-Personalization emerged as a major driver of user engagement and sales. AI-powered features can improve decision speed, perceived value, and the overall shopping experience.
-
-However, challenges related to technological accuracy, data privacy, and limited human support need to be addressed for AI to deliver a more effective and trustworthy e-commerce experience.
-
----
+## 💡 Recommendations
+- Improve AI recommendations and virtual try-on accuracy.
+- Strengthen data privacy and transparency.
+- Combine AI chatbots with human customer support.
 
 ## 🛠️ Tools & Skills
+- **Tools:** SPSS, Microsoft Excel
+- **Research:** Questionnaire Design, Quantitative Research, Statistical Analysis
+- **Techniques:** Regression Analysis, Discriminant Analysis, Exploratory Factor Analysis
+- **Domain:** Artificial Intelligence, E-Commerce, Consumer Behavior
 
-### Research & Analysis
-- Quantitative Research
-- Data Collection
-- Questionnaire Design
-- Statistical Analysis
-- Consumer Behavior Analysis
-- Research Methodology
-
-### Statistical Tools
-- SPSS
-- Frequency Analysis
-- Regression Analysis
-- Discriminant Analysis
-- Exploratory Factor Analysis
-
-### Domain Knowledge
-- Artificial Intelligence
-- E-Commerce
-- AI-Based Recommendation Systems
-- Customer Experience
-- Digital Commerce
-
----
-
-## 🎓 Academic Project
-
-**Project Type:** Final-Year Academic Project
-
-**Institution:** Loyola Academy
-
-**Domain:** Artificial Intelligence & E-Commerce
-
-**Research Area:** AI Adoption and Consumer Purchase Decision-Making
-
-**Geographical Area:** Hyderabad, India
-
-**Sample Size:** 106 Respondents
-
----
-
-## 👩‍💻 Author
-
-**Shriya Chary**
-
-Final-Year Academic Project  
-Loyola Academy
-
----
-
-## 📚 References
-
-The research was supported by literature related to AI, e-commerce, customer experience, and AI adoption, including works by:
-
-- Patil (2024) – AI in Retail and E-Commerce
-- Lari et al. (2024) – AI Applications in E-Commerce
-- Satija & Singla (2025) – Bibliometric Analysis of AI Adoption
-- Kamboj et al. (2021) – AI's Impact on Indian E-Commerce
-- Mittal (2025) – AI's Transformative Role in Digital Commerce
-- Baheti (2024) – AI-Powered Smart Shopping Tools
-
----
-
-## ⭐ Project Highlights
-
-- 📊 Quantitative research study
-- 👥 106 Myntra users surveyed
-- 📍 Hyderabad-based study
-- 🤖 Focus on Artificial Intelligence in E-Commerce
-- 📈 Regression and Discriminant Analysis
-- 🔎 Exploratory Factor Analysis
-- 🛍️ Focus on consumer purchase behavior
-- 🔐 Analysis of AI-related privacy and technology challenges
-  
+## 🎓 Project Details
+- **Type:** Final-Year Academic Project
+- **Institution:** Loyola Academy
+- **Author:** Shriya Chary
 
 ---
 
