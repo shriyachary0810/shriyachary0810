@@ -88,21 +88,24 @@ Working on AI-based projects and gaining hands-on experience with:
 ---
 
 ## 📌 Projects
-
 ### 👨‍💼 Employee Onboarding Application
 
-A centralized application designed to simplify and manage the employee onboarding process.
+A centralized web application designed to streamline and simplify the employee onboarding process by digitizing employee information collection, document management, task tracking, and onboarding activities. The application helps HR teams manage onboarding workflows efficiently, reduce manual effort, and maintain organized employee records.
 
-**Features include:**
+**✨ Key Features:**
+- **Employee Information Management:** Collect, validate, and maintain employee details in a centralized system.
+- **Document Management:** Organize and manage employee onboarding documents.
+- **Task Tracking:** Track onboarding tasks, pending activities, and completion status.
+- **Onboarding Workflow:** Manage and monitor onboarding activities in a structured process.
+- **Workflow Automation:** Reduce repetitive manual work and improve operational efficiency.
+- **REST API Integration:** Enable communication between the frontend and backend for employee data and onboarding operations.
 
-* Employee information management
-* Document management
-* Task tracking
-* Onboarding activities
-* Workflow automation
+**🛠️ Technologies Used:**
 
-**Technologies:**
-`Python` `FastAPI` `React.js`
+`Python` `FastAPI` `React.js` `MongoDB` `REST APIs`
+
+**🎯 Project Objective:**  
+To improve the employee onboarding experience by providing an organized, efficient, and centralized platform for HR teams and new employees.
 
 # A Study on the Role of Artificial Intelligence in E-Commerce
 ### A Special Reference to Myntra
