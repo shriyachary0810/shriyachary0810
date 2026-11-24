@@ -263,9 +263,11 @@ Contributing to **AI-based projects** while developing strong technical, problem
 
 ![profile view](https://komarev.com/ghpvc/?username=shriyachary0810)
 
-## GitHub stats
 
-![GitHub Stats Card](https://ghstats.dev/api/card?username=shriyachary0810&theme=midnight)
+
+## 📊 GitHub Stats
+
+![GitHub Stats](https://ghstats.dev/api/card?username=shriyachary0810&theme=midnight)
 
 ---
 
