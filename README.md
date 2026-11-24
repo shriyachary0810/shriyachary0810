@@ -267,7 +267,7 @@ Contributing to **AI-based projects** while developing strong technical, problem
 
 ## 📊 GitHub Stats
 
-![GitHub Stats](https://ghstats.dev/api/card?username=shriyachary0810&theme=midnight)
+![GitHub Stats Card](https://ghstats.dev/api/card?username=shriyachary0810&theme=midnight
 
 ---
 
